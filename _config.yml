@@ -1,11 +1,11 @@
 title: Shreya Nair # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/portfolio.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Previously at Accenture, an Insights Analyst with 4+ years of experience in Finance and Banking industry. Proficient in Python, SQL, Power BI and Tableau, I excel at analyzing large datasets to provide valuable insights and effectively communicate the findings.
   <br><br>
-  Second description 
+  MSc in Data Science and Analytics from Brunel University London.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/shreya-nair-analyst/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
