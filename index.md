@@ -5,11 +5,14 @@
 ### Dashboards in Power BI and Tableau 
 
 [Zomato App Analysis using Power BI](/sample_page)
+<br>
 <img src="images/zomato.png?raw=true"/>
 
 ---
 [Sales analysis using Tableau](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<img src="images/sales.png?raw=true"/>
+[View on Tableau Public](https://public.tableau.com/app/profile/shreya.nair6145/viz/AnnualSalesAnalysis_16807923044550/Dashboard2)
 
 ---
 [Project 3 Title](http://example.com/)
