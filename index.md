@@ -15,8 +15,9 @@
 [View on Tableau Public](https://public.tableau.com/app/profile/shreya.nair6145/viz/AnnualSalesAnalysis_16807923044550/Dashboard2)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Global Analysis](http://example.com/)
+<img src="images/Covid.png?raw=true"/>
+[View on Tableau Public](https://public.tableau.com/app/profile/shreya.nair6145/viz/COVID-19Report_16816795207280/COVID-19REPORT)
 
 ---
 
