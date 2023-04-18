@@ -24,6 +24,8 @@ A sales dashboard to understand the quarterly sales of a motobike company and th
 [View on Tableau Public](https://public.tableau.com/app/profile/shreya.nair6145/viz/AnnualSalesAnalysis_16807923044550/Dashboard2)
 
 ---
+
+
 [COVID-19 Global Analysis](http://example.com/)
 
 
@@ -39,9 +41,14 @@ A dashboard to understnd how Covid-19 sread globally and what was the region wis
 
  [LinkedIn to extract Job Titles and Company Names for an Analyst role in London](http://example.com/)
  
-- [View the code on Git](https://github.com/InsightsInquirer/LinkedIn_Web_Scrapping.git)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+A simple code in python to extract the job postings from LinkedIn using codedriver and Selenium and using bar charts to analyse top 10 companies that have the maximum  number of listings along with the most popular job titles in the listings.
+ 
+  <img src="images/LinkedIn.png?raw=true"/>
+ 
+ [View the code on Git](https://github.com/InsightsInquirer/LinkedIn_Web_Scrapping.git)
+ 
+ ---
+ 
+
 
 ---
